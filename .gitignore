@@ -33,6 +33,7 @@
 *.su
 
 # CodeLite
+<<<<<<< HEAD
 .clang
 .codelite/
 Debug/
@@ -41,3 +42,15 @@ Release/
 *.mk
 *.project
 Makefile
+=======
+.codelite
+.workspace
+.clang/
+Makefile
+*/*.mk
+*.db
+*/*.project
+*/*.bak
+*/*.txt
+Debug/
+>>>>>>> fa4aa5c35f733292b8709f52b5ef7554129c8d60
